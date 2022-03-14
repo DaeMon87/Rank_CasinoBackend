@@ -13,3 +13,6 @@ INSERT INTO Transaction (id, action_type, change, timestamp, PLAYER_ID) VALUES (
 INSERT INTO Transaction (id, action_type, change, timestamp, PLAYER_ID) VALUES (10, 1, 4.0, '2022-03-10', 1);
 INSERT INTO Transaction (id, action_type, change, timestamp, PLAYER_ID) VALUES (11, 1, 1.0, '2022-03-10', 1);
 INSERT INTO Transaction (id, action_type, change, timestamp, PLAYER_ID) VALUES (12, 1, 10.0, '2022-03-10', 1);
+
+INSERT INTO Transaction (id, action_type, change, timestamp, PLAYER_ID) VALUES (13, 1, 1.0, '2022-03-10', 2);
+INSERT INTO Transaction (id, action_type, change, timestamp, PLAYER_ID) VALUES (114, 2, 50000.0, '2022-03-10', 2);
